@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/idrissjuanito/github.io/Hepilo-replica/static/css/main.f59f607d.css",
+    "main.js": "/idrissjuanito/github.io/Hepilo-replica/static/js/main.62766eb1.js",
+    "static/media/home-hero-dark.png": "/idrissjuanito/github.io/Hepilo-replica/static/media/home-hero-dark.857809da0f76dd446db1.png",
+    "static/media/logo.png": "/idrissjuanito/github.io/Hepilo-replica/static/media/logo.c84857fc30ec8eae1432.png",
+    "static/media/home-github-dark.png": "/idrissjuanito/github.io/Hepilo-replica/static/media/home-github-dark.79d9382f79404c5966b4.png",
+    "static/media/home-budget-dark.png": "/idrissjuanito/github.io/Hepilo-replica/static/media/home-budget-dark.409fa55e28adb0fd9238.png",
+    "index.html": "/idrissjuanito/github.io/Hepilo-replica/index.html",
+    "main.f59f607d.css.map": "/idrissjuanito/github.io/Hepilo-replica/static/css/main.f59f607d.css.map",
+    "main.62766eb1.js.map": "/idrissjuanito/github.io/Hepilo-replica/static/js/main.62766eb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59f607d.css",
+    "static/js/main.62766eb1.js"
+  ]
+}
