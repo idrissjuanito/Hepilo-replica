@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hepilo-replica/static/css/main.320d5785.css",
-    "main.js": "/hepilo-replica/static/js/main.3042ed23.js",
+    "main.js": "/hepilo-replica/static/js/main.b9f59dd9.js",
     "static/media/home-hero-dark.png": "/hepilo-replica/static/media/home-hero-dark.857809da0f76dd446db1.png",
     "static/media/logo.png": "/hepilo-replica/static/media/logo.c84857fc30ec8eae1432.png",
     "static/media/home-github-dark.png": "/hepilo-replica/static/media/home-github-dark.79d9382f79404c5966b4.png",
     "static/media/home-budget-dark.png": "/hepilo-replica/static/media/home-budget-dark.409fa55e28adb0fd9238.png",
     "index.html": "/hepilo-replica/index.html",
     "main.320d5785.css.map": "/hepilo-replica/static/css/main.320d5785.css.map",
-    "main.3042ed23.js.map": "/hepilo-replica/static/js/main.3042ed23.js.map"
+    "main.b9f59dd9.js.map": "/hepilo-replica/static/js/main.b9f59dd9.js.map"
   },
   "entrypoints": [
     "static/css/main.320d5785.css",
-    "static/js/main.3042ed23.js"
+    "static/js/main.b9f59dd9.js"
   ]
 }
