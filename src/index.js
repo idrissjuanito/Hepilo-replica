@@ -1,19 +1,19 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import "./index.css";
-import App from "./App";
-import Home from "./Home";
-import Login from "./Login";
-import ShoppingList from "./list/ShoppingList";
-import Manage from "./list/Manage";
-import { ProtectedRoute } from "./list/Main";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { User } from "./store";
+import React from 'react'
+import ReactDOM from 'react-dom'
+import './index.css'
+import App from './App'
+import Home from './Home'
+import Login from './Login'
+import ShoppingList from './list/ShoppingList'
+import Manage from './list/Manage'
+import { ProtectedRoute } from './list/Main'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { User } from './store'
 
 ReactDOM.render(
   <React.StrictMode>
     <User>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<App />}>
             <Route path="" element={<Home />} />
@@ -34,5 +34,5 @@ ReactDOM.render(
       </Router>
     </User>
   </React.StrictMode>,
-  document.getElementById("root")
-);
+  document.getElementById('root')
+)
