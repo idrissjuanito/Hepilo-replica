@@ -1,6 +1,6 @@
 {
-  "name": "hepilo-replica",
   "homepage": "https://idrissjuanito.github.io/hepilo-replica",
+  "name": "hepilo-replica",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
